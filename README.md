@@ -20,11 +20,12 @@ Please respect the LICENSE for this repository. Redistribution, mirroring, or cl
 
 The archives are password protected.
 
-To obtain the current ZIP password, join the Discord server:
+ZIP Password is: IHATEGREEDYDEVSWHOOVERCHARGEFORSHIT
+
+join the Discord server:
 
 https://discord.gg/B72tDepuua
 
-The password is only provided through the Discord server to reduce automated scraping, bulk downloads, and unauthorized mirrors.
 
 ## Credits
 
