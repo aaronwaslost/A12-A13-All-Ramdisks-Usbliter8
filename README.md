@@ -19,8 +19,7 @@ The password is only provided through the Discord server to reduce automated scr
 Special thanks to the following projects and developers:
 
 - [Orangera1n](https://github.com/Orangera1n) for the amazing Spironolactone script, which helped me understand how ramdisks are built.
-- The USBLiter8 developers at Paradigm Shift for their work on the A12/A13 SecureROM exploit. :contentReference[oaicite:0]{index=0}
-
+- The USBLiter8 developers at Paradigm Shift for their work on the A12/A13 SecureROM exploit
 ## Disclaimer
 
 The contents of this repository are provided "AS IS", without any express or implied warranty.
