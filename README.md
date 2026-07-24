@@ -1,5 +1,7 @@
 # USBLiter8 Ramdisks (A12–A13)
 
+CHECK RELEASES FOR RAMDISK FILES!
+
 Copyright © 2026 Aaron_Industries / Phantom_A12+
 
 This repository contains ramdisks for supported A12 and A13 iPhone and iPad devices.
